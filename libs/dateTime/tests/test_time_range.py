@@ -2,7 +2,7 @@
 # Author: Pascal Chenevas-Paule, github.com: <pascal-chenevas>
 #
 import unittest
-import datetime_range
+import ../datetime_range
 from datetime import datetime
 
 class TestDateTimeMethods(unittest.TestCase):
