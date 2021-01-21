@@ -1,6 +1,22 @@
 #!/usr/bin/python3
-# Author: Pascal Chenevas-Paule, github.com: <pascal-chenevas>
-#
+############################ Copyrights and license #################################
+#                                                                                   #   
+# Copyright 2021 Pascal Chenevas-Paule <pascal.chenevas-paule@gmx.de>               #
+#                                                                                   #
+# datetime_range is free software: you can redistribute it and/or modify it under   #
+# the terms of the GNU Lesser General Public License as published by the Free       #
+# Software Foundation, either version 3 of the License, or (at your option)         #
+# any later version.                                                                #
+#                                                                                   #
+# datetime_range is distributed in the hope that it will be useful, but WITHOUT ANY #
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS         #
+# FOR A PARTICULAR PURPOSE. See the GNU Lesser General Public License for more      #
+# details.                                                                          #
+#                                                                                   #
+# You should have received a copy of the GNU Lesser General Public License          #
+# along with datetime_range. If not, see <http://www.gnu.org/licenses/>.            #
+#                                                                                   #
+#####################################################################################
 import time
 import datetime
 from datetime import datetime as date_time
