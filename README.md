@@ -1,3 +1,5 @@
+[![Python application](https://github.com/pascal-chenevas/python/actions/workflows/python-app.yml/badge.svg)](https://github.com/pascal-chenevas/python/actions/workflows/python-app.yml)
+
 # python
 python projects
 
