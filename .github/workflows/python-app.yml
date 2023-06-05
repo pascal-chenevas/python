@@ -36,4 +36,5 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: unit tests
       run: |
-        python3 -m unittest libs/dateTime
+        cd libs
+        python3 -m unittest dateTime
